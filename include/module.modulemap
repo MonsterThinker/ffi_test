@@ -1,0 +1,4 @@
+module RustLib {
+    header "rustlib.h"
+    export *
+}
